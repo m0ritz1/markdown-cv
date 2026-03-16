@@ -1,91 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Moritz – Lebenslauf
 ---
-# Moritz
-Physicist, Mathematician, Cambridge professor.
+# Moritz Eisenhardt
+
+Geburtsort: Berlin  
+Jülicher Straße 8, 13357 Berlin
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tel:017641543419">0176 4154 3419</a>
+| <a href="mailto:moritzeisenhardt1@gmail.com">moritzeisenhardt1@gmail.com</a>
 </div>
 
 
-## Currently
+## Kenntnisse
 
-changed
+**Sprachen**
+- Deutsch (Muttersprache)
+- Englisch (C1)
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+**Technisch**
+- JavaScript, Google Apps Script
+- Erfahren im Umgang mit Google Sheets
+- WordPress
+- API-Schnittstellen
 
 
+## Bildung
 
-## Awards
+`2018 - 2025`
+__HTW Berlin__
 
-`2012`
-President, *Royal Society*, London, UK
+- B.Sc. Umweltinformatik
+- Bachelorarbeit: Vergleich von SARIMA-Zeitreihenmodellen und LSTM Deep Learning zur Vorhersage von betrieblichen Unternehmenskennzahlen am Beispiel der Reederei „Seminarschiff“
 
-Associate, *French Academy of Science*, Paris, France
+`2018`
+__Katholische Schule Sankt Marien__, Berlin
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Abitur
 
 
-## Occupation
+## Berufserfahrung
 
-`1600`
-__Royal Mint__, London
+`2018 - März 2026`
+__Seminarschiff Fluxservice GmbH__, Berlin
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Webprogrammierer
+- Pflege, Aktualisierung und Gestaltung der Website
+- Selbstständige Analyse von Optimierungsmöglichkeiten im operativen Geschäft der Reederei, Projektierung und Umsetzung, Einarbeitung der Mitarbeiter, Monitoring und Wartung
+- Digitales Marketing für Schifffahrt: Newsletter-Gestaltung, Aufbau einer Ticketverkaufs-Lösung und Anbindung an Online-Travel-Agencies
 
 
-<!-- ### Footer
+## Ehrenamt
 
-Last updated: May 2013 -->
+- Jugendtrainer Ultimate Frisbee
 
 
+## Interessen
+
+- Schlagzeug spielen
+- Ultimate Frisbee (Teamkapitän)
+- Segeln
+- Videobearbeitung
