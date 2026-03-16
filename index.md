@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Moritz
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+changed
 
 ### Specialized in
 
